@@ -1,0 +1,18 @@
+{
+    "name": "snappdoctor/php-rest-communicator",
+    "description": "PHP REST API Communicator for SnappDoctor Microservices!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alireza Jangi",
+            "email": "ajangi@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "DrCommunicator\\" : "src/"
+    },
+    "require": {}
+}
